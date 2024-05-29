@@ -1,0 +1,14 @@
+{
+  "name": "copysite",
+  "version": "1.0.0",
+  "description": "Landing page for Dutchcopy",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Dirk",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}

@@ -1,0 +1,14 @@
+main {
+	display: flex;
+	font-size: 2rem;
+	color: white;
+	width: 1000px;
+	margin: auto;
+}
+
+.main-container {
+	border-radius: 15px;
+	padding: 50px;
+	background-color: $color-text-area;
+	color: $color-text-dark;
+}

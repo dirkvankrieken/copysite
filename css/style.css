@@ -37,6 +37,7 @@ html {
   font-size: 62.5%; }
 
 body {
+  background-color: #4574A2;
   box-sizing: border-box; }
 
 body {
@@ -44,7 +45,7 @@ body {
   font-weight: 400;
   /*font-size: 16px;*/
   line-height: 1.7;
-  color: #777;
+  color: #2F2F2F;
   padding: 3rem; }
 
 .u-center-text {
@@ -64,3 +65,20 @@ body {
 
 .u-margin-top-huge {
   margin-top: 10rem !important; }
+
+header h1 {
+  color: white;
+  font-size: 5rem; }
+
+main {
+  display: flex;
+  font-size: 2rem;
+  color: white;
+  width: 1000px;
+  margin: auto; }
+
+.main-container {
+  border-radius: 15px;
+  padding: 50px;
+  background-color: #D8E8FF;
+  color: #2F2F2F; }
